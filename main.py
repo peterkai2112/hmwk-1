@@ -40,7 +40,7 @@ if g2 == "D":
 if g2 == "F":
   grade2 = 0.0
 c2 = input("Enter your course 2 credit: ")
-print("Grade point for course 3 is: " + str(grade2))
+print("Grade point for course 2 is: " + str(grade2))
 
 g3 = input("Enter your course 3 letter grade: ")
 if g3 == "A":
